@@ -1,0 +1,21 @@
+.linkStyle {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bold;
+  padding: 5px;
+  font-size: 20px;
+  color: black;
+}
+
+.linkStyle:hover{
+    text-decoration: none;
+}
+
+.nav {
+  background-color: #FFE4B5;
+}
+
+.brand {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bold;
+  font-size: 30px
+}

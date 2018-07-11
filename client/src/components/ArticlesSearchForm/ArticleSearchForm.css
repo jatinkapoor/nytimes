@@ -1,0 +1,10 @@
+.form-border {
+  color: rebeccapurple;
+  border: 2px;
+  border-style: solid;
+  padding: 10px;
+}
+
+.toggleButton {
+  background-color: blueviolet;
+}
